@@ -4,7 +4,7 @@ echo "Installing linux steroids..."
 
 apt -y update >/dev/null 2>&1
 apt -y upgrade >/dev/null 2>&1
-apt install htop neofetch i3 terminator python3 python3-pip rofi compton zsh feh ranger jq libxcb-xrm-dev libxcb1-dev libxcb-keysyms1-dev libpango1.0-dev libxcb-util0-dev libxcb-icccm4-dev libyajl-dev libstartup-notification0-dev libxcb-randr0-dev libev-dev libxcb-cursor-dev libxcb-xinerama0-dev libxcb-xkb-dev libxkbcommon-dev libxkbcommon-x11-dev autoconf xutils-dev libtool automake -y
+apt install htop neofetch i3 terminator nm-applet python3 python3-pip rofi compton zsh feh ranger jq libxcb-xrm-dev libxcb1-dev libxcb-keysyms1-dev libpango1.0-dev libxcb-util0-dev libxcb-icccm4-dev libyajl-dev libstartup-notification0-dev libxcb-randr0-dev libev-dev libxcb-cursor-dev libxcb-xinerama0-dev libxcb-xkb-dev libxkbcommon-dev libxkbcommon-x11-dev autoconf xutils-dev libtool automake -y
 
 echo "...more installs coming."
 
